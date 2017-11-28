@@ -14,8 +14,6 @@ reports/
 screenshots/
 selenium-debug.log
 bin/chromedriver
-
-
-
-
-
+bin/chromedriver.exe
+../password.js
+nightwatch.conf.js
