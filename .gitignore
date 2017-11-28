@@ -4,7 +4,7 @@
 
 node_modules/
 npm-debug.log
-
+*.swp
 
 # ----------------------------------------
 # Nightwatch
@@ -13,6 +13,7 @@ npm-debug.log
 reports/
 screenshots/
 selenium-debug.log
+bin/chromedriver
 
 
 
